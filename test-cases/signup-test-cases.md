@@ -1,5 +1,23 @@
 # Signup Test Cases
 
+## Module
+
+User Registration
+
+## Test Type
+
+Functional Testing
+
+## Prepared By
+
+Immabel
+
+## Date Created
+
+29 June 2026
+
+# Signup Test Cases
+
 | ID    | Test Case                         | Expected Result                       |
 | ----- | --------------------------------- | ------------------------------------- |
 | TC001 | Signup with valid information     | Account created successfully          |
