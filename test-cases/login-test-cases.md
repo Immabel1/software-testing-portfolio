@@ -1,5 +1,23 @@
 # Login Test Cases
 
+## Module
+
+Authentication
+
+## Test Type
+
+Functional Testing
+
+## Prepared By
+
+Immabel
+
+## Date Created
+
+29 June 2026
+
+# Login Test Cases
+
 | ID    | Test Case                    | Expected Result              |
 | ----- | ---------------------------- | ---------------------------- |
 | TC001 | Login with valid credentials | User logs in successfully    |
