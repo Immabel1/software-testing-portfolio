@@ -1,3 +1,3 @@
 # Bug Reports
 
-This folder contains sample bug reports and defect documentation.
+This folder contains bug reports and defect documentation.
